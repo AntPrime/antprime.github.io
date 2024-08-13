@@ -32,3 +32,8 @@ img {
   width: 160px;
   margin-right: 10px;
 }
+
+h6 {
+  font-size: 13;
+  text-transform: uppercase;
+}
